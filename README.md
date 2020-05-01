@@ -14,3 +14,5 @@ Interessant finde ich, dass es in Mainz eine Ludwig Schwamb Straße, aber keine 
 Auch immer wieder interessant, sind die Kleinigkeiten - es gibt eine Richard Schumann Straße, nach Clara Schumann wurde bisher keine Straße benannt.
 
 Die `mainzer_strassennamen.csv` ist um das Geschlecht angereichert.
+
+Auf die Idee gekommen bin ich, als ich in dem Livestream der 1. Mai Kundgebung 2020, die coronabedingt nur online stattfand, einen Beitrag von Friederike_Kempter über [Emma Ihrer](https://de.wikipedia.org/wiki/Emma_Ihrer) sah.
