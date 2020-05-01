@@ -7,7 +7,7 @@ Insgesamt wurden 624 Strassennamen ausgewertet. Basis ist ein von der Stadt Main
 * 69 haben einen weiblichen Bezug.
 * 8 haben einen Bezug zu Familien.
 * Bei 3 Strassennamen ist die Herkunft unbekannt.
-* Unter Sonstiges viel ein Straßenname.
+* Unter Sonstiges fiel ein Straßenname.
 
 Interessant finde ich, dass es in Mainz eine Ludwig Schwamb Straße, aber keine Elizabeth Schwamb Straße gibt. Es wurde aber schon von verschiedenen Bürger:innen angeregt, Elizabeth Schwamb eine Straße zu widmen. Elizabeth Schwamb hat u.a. nach dem zweiten Weltkrieg die SPD in RLP wieder mit aufgebaut.
 
