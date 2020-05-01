@@ -15,4 +15,4 @@ Auch immer wieder interessant, sind die Kleinigkeiten - es gibt eine Richard Sch
 
 Die `mainzer_strassennamen.csv` ist um das Geschlecht angereichert.
 
-Auf die Idee gekommen bin ich, als ich in dem Livestream der 1. Mai Kundgebung 2020, die coronabedingt nur online stattfand, einen Beitrag von Friederike_Kempter über [Emma Ihrer](https://de.wikipedia.org/wiki/Emma_Ihrer) sah.
+Auf die Idee gekommen bin ich, als ich in dem Livestream der 1. Mai Kundgebung 2020, die coronabedingt nur online stattfand, einen Beitrag von [Friederike Kempter](https://de.wikipedia.org/wiki/Friederike_Kempter)  über [Emma Ihrer](https://de.wikipedia.org/wiki/Emma_Ihrer) sah.
