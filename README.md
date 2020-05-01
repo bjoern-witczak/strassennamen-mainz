@@ -1,7 +1,7 @@
 # strassennamen-mainz
 Liste von Straßennamen in Mainz mit Beschreibung und Geschlecht.
 
-Insgesamt wurden 624 Strassennamen ausgewertet. Basis ist ein von der Stadt Mainz veröffentlichtes Dokument über die [Herkunft con Straßennamen](https://www.mainz.de/kultur-und-wissenschaft/bibliotheken-und-archive/stadtarchiv/strassennamen.php).
+Insgesamt wurden 624 Strassennamen ausgewertet. Basis ist ein von der Stadt Mainz veröffentlichtes Dokument über die [Herkunft von Straßennamen](https://www.mainz.de/kultur-und-wissenschaft/bibliotheken-und-archive/stadtarchiv/strassennamen.php).
 
 * 543 Strassennamen haben einen männlichen Bezug.
 * 69 haben einen weiblichen Bezug.
