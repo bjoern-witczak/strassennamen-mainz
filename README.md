@@ -21,4 +21,8 @@ Auf die Idee gekommen bin ich, als ich in dem Livestream der 1. Mai Kundgebung 2
 
 Schockiert hat mich, dass es in Mainz eine Werherr von Braun Straße gibt. Die Kommission die hier tagte, hat seinen Tatbeitrag zum Tod tausender Zwangsarbeiter arg geschönt. Hiermit werde ich mich beschäftigen.
 
+Das reine Auswerten nach Geschlechtern ist natürlich nur ein erster Schritt. Interessant wäre eine Auswertung nach feministischen und klassistischen Gesichtspunkten.
+
 Sollten in der Liste Straßennamen fehlen, gerne einen Hinweis an mich: strassennamen.mz [at] witczak.de
+
+Ebenso können mir gerne neue mögliche Wunschnamen geschickt werden.
