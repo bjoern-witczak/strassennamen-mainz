@@ -9,7 +9,7 @@ Insgesamt wurden 624 Strassennamen ausgewertet. Basis ist ein von der Stadt Main
 * Bei 3 Strassennamen ist die Herkunft unbekannt.
 * Unter Sonstiges fiel ein Straßenname.
 
-Interessant finde ich, dass es in Mainz eine Ludwig Schwamb Straße, aber keine Elizabeth Schwamb Straße gibt. Es wurde aber schon von verschiedenen Bürger:innen angeregt, Elizabeth Schwamb eine Straße zu widmen. Elisabeth Schwamb hat u.a. nach dem zweiten Weltkrieg die SPD in RLP wieder mit aufgebaut.
+Interessant finde ich, dass es in Mainz eine Ludwig Schwamb Straße, aber keine Elisabeth Schwamb Straße gibt. Es wurde aber schon von verschiedenen Bürger:innen angeregt, Elisabeth Schwamb eine Straße zu widmen. Elisabeth Schwamb hat u.a. nach dem zweiten Weltkrieg die SPD in RLP wieder mit aufgebaut.
 
 Auch immer wieder interessant, sind die Kleinigkeiten - es gibt eine Richard Schumann Straße, nach Clara Schumann wurde bisher keine Straße benannt.
 
