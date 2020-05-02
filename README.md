@@ -11,13 +11,13 @@ Insgesamt wurden 627 Strassennamen ausgewertet. Basis ist ein von der Stadt Main
 
 Interessant finde ich, dass es in Mainz eine Ludwig Schwamb Straße, aber keine Elisabeth Schwamb Straße gibt. Es wurde aber schon von verschiedenen Bürger:innen angeregt, Elisabeth Schwamb eine Straße zu widmen. Elisabeth Schwamb hat u.a. nach dem zweiten Weltkrieg die SPD in RLP wieder mit aufgebaut.
 
-Auch immer wieder interessant, sind die Kleinigkeiten - es gibt eine Richard Schumann Straße, nach Clara Schumann wurde bisher keine Straße benannt.
+Auch immer wieder interessant, sind die Kleinigkeiten - es gibt eine Richard Schumann Straße, nach Clara Schumann wurde bisher keine Straße benannt. Ein Antrag der SPD im Ortsbeirat der Neustadt wurde unter anderem von "Den Grünen" und der "Linken" abgelehnt.
 
 Die `mainzer_strassennamen.csv` ist um das Geschlecht angereichert.
 
 Aufbau: Straßenname; Erläuterung; Geschlecht; Quellenangabe (wenn Ergänzung von mir)
 
-Auf die Idee gekommen bin ich, als ich in dem Livestream der 1. Mai Kundgebung 2020, die coronabedingt nur online stattfand, einen Beitrag von [Friederike Kempter](https://de.wikipedia.org/wiki/Friederike_Kempter)  über [Emma Ihrer](https://de.wikipedia.org/wiki/Emma_Ihrer) sah.
+Auf die Idee gekommen bin ich, als ich in dem Livestream der 1. Mai Kundgebung 2020, die coronabedingt nur online stattfand, einen Beitrag von [Friederike Kempter](https://de.wikipedia.org/wiki/Friederike_Kempter) über [Emma Ihrer](https://de.wikipedia.org/wiki/Emma_Ihrer) sah.
 
 Schockiert hat mich, dass es in Mainz eine Werherr von Braun Straße gibt. Die Kommission die hier tagte, hat seinen Tatbeitrag zum Tod tausender Zwangsarbeiter arg geschönt. Hiermit werde ich mich beschäftigen.
 
