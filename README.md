@@ -13,7 +13,7 @@ Interessant finde ich, dass es in Mainz eine Ludwig Schwamb Straße, aber keine 
 
 Auch immer wieder interessant, sind die Kleinigkeiten - es gibt eine Richard Schumann Straße, nach Clara Schumann wurde bisher keine Straße benannt. Ein Antrag der SPD im Ortsbeirat der Neustadt wurde unter anderem von "Den Grünen" und der "Linken" abgelehnt.
 
-Schockiert hat mich, dass es in Mainz eine Werherr von Braun Straße gibt. Die Kommission die hier tagte, hat seinen Tatbeitrag zum Tod tausender Zwangsarbeiter arg geschönt. Hiermit werde ich mich beschäftigen.
+Schockiert hat mich, dass es in Mainz eine Wernher von Braun Straße gibt. Die Kommission die hier tagte, hat seinen Tatbeitrag zum Tod tausender Zwangsarbeiter arg geschönt. Hiermit werde ich mich beschäftigen.
 
 Die `mainzer_strassennamen.csv` ist um das Geschlecht angereichert, sowie bei einigen um eine Quellenangabe und Kategorie.
 
